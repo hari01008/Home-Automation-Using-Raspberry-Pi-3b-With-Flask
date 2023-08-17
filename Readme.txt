@@ -9,7 +9,7 @@ This project enables home automation using a Raspberry Pi and a 4-channel relay 
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/rpi-home-automation.git
+   git clone git@github.com:hari01008/Home-Automation-Using-Raspberry-Pi-3b-With-Flask.git
    cd rpi-home-automation
    ```
 
